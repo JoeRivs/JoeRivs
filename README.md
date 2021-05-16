@@ -1,5 +1,5 @@
 ### Hi there 👋
-    Start up developer
+    I'm a start up developer
     I’m currently learning Python
     How to reach me: jr.rredy03@gmail.com
     
