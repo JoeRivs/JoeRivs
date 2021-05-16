@@ -1,7 +1,7 @@
 ### Hi there 👋
     I'm a start up developer
     I’m currently learning Python
-    How to reach me: jr.rredy03@gmail.com
+    How to reach me: jr.reedy03@gmail.com
     
 <!--
 **JoeRivs/JoeRivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
